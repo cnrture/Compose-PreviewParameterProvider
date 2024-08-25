@@ -1,5 +1,5 @@
 ## Youtube Video
-[Link]()
+[Link](https://youtu.be/dGJJurVWYaw?si=lVfl9J86Y7RLbJaR)
 
 ## Code
 ```kotlin
